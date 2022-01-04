@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(183, 227, 255);
+}
+hr {
+  border-style: None;
+  border-top: dotted;
+  border-color: rgba(128, 128, 128, 0.733);
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #29a9ff;
+}
+
+h3 {
+  color: #29a9ff;
+}
+tr,
+ul,
+form {
+  color: #104c74;
+}
