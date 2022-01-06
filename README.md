@@ -4,7 +4,7 @@ HTML-Personal-Site
 
 A simple CV with my imformation in it.
 
-- Html
+- HTML
 
 # Deploy
 
